@@ -37,7 +37,7 @@
 <p><img src="https://skillicons.dev/icons?i=vue,react&perline=12"></p>
 
 **Frameworks (Full‑Stack & Back‑End)**  
-<p><img src="https://skillicons.dev/icons?i=laravel,nextjs,nuxtjs,express&perline=12"></p>
+<p><img src="https://skillicons.dev/icons?i=laravel,nextjs,nuxtjs,express,adonis&perline=12"></p>
 
 **Styling & Bundling**  
 <p><img src="https://skillicons.dev/icons?i=tailwind,css,sass,vite&perline=12"></p>
