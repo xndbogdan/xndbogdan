@@ -57,7 +57,7 @@
 ---
 
 ### Hobbies & Creative
-<p><img src="https://skillicons.dev/icons?i=ableton,ps,ae,apple&perline=12"></p>
+<p><img src="https://skillicons.dev/icons?i=ableton,ps,ae&perline=12"></p>
 
 - **Ableton** — music production & sound design.
 - **Photoshop / After Effects** – visuals & motion.  
