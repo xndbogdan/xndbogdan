@@ -30,7 +30,7 @@
 **Languages**  
 <p><img src="https://skillicons.dev/icons?i=php,js,ts&perline=12"></p>
 
-**Run‑times**  
+**Runtimes**  
 <p><img src="https://skillicons.dev/icons?i=nodejs,bun&perline=12"></p>
 
 **Backend Frameworks**  
