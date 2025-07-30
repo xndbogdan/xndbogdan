@@ -25,7 +25,7 @@
 ### Favorite tech stack
 
 **Core & OS**  
-<p><img src="https://skillicons.dev/icons?i=git,vscode,linux,bash&perline=12"></p>
+<p><img src="https://skillicons.dev/icons?i=git,vscode,linux,bash,powershell&perline=12"></p>
 
 **Languages**  
 <p><img src="https://skillicons.dev/icons?i=php,js,ts&perline=12"></p>
