@@ -25,7 +25,7 @@
 ### Favorite tech stack
 
 **Core & OS**  
-<p><img src="https://skillicons.dev/icons?i=git,vscode,linux,bash&perline=12"></p>
+<p><img src="https://skillicons.dev/icons?i=linux,git,bash,vscode&perline=12"></p>
 
 **Languages**  
 <p><img src="https://skillicons.dev/icons?i=php,js,ts&perline=12"></p>
@@ -34,7 +34,7 @@
 <p><img src="https://skillicons.dev/icons?i=nodejs,bun&perline=12"></p>
 
 **Frontend Frameworks**  
-<p><img src="https://skillicons.dev/icons?i=react,vue&perline=12"></p>
+<p><img src="https://skillicons.dev/icons?i=vue,react&perline=12"></p>
 
 **Frameworks (full‑stack & back‑end)**  
 <p><img src="https://skillicons.dev/icons?i=laravel,nextjs,nuxtjs,express&perline=12"></p>
