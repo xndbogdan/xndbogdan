@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.himthe.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-himthe.dev-informational?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.himthe.dev/blog" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-Read%20my%20posts-informational?style=for-the-badge&logo=hashnode"></a>
   <a href="mailto:bogdan.mosteanu@hey.com"><img alt="Email" src="https://img.shields.io/badge/Email-bogdan.mosteanu@hey.com-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
