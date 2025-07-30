@@ -25,7 +25,7 @@
 ### Favorite tech stack
 
 **Core & OS**  
-<p><img src="https://skillicons.dev/icons?i=linux,git,bash,vscode&perline=12"></p>
+<p><img src="https://skillicons.dev/icons?i=linux,apple,git,bash,vscode&perline=12"></p>
 
 **Languages**  
 <p><img src="https://skillicons.dev/icons?i=php,js,ts&perline=12"></p>
@@ -58,7 +58,6 @@
 
 - **Ableton** — music production & sound design.
 - **Photoshop / After Effects** – visuals & motion.  
-- **Apple** – yep, I’m in the cult.
 
 ---
 
