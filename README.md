@@ -22,7 +22,7 @@
 
 ---
 
-### Favorite tech stack
+### Stacks I ship with
 
 **Core & OS**  
 <p><img src="https://skillicons.dev/icons?i=linux,apple,git,bash,vscode&perline=12"></p>
@@ -47,6 +47,9 @@
 
 **DevOps & Cloud**  
 <p><img src="https://skillicons.dev/icons?i=docker,aws,netlify&perline=12"></p>
+
+**Desktop apps**
+<p><img src="https://skillicons.dev/icons?i=electron&perline=12"></p>
 
 **Developer Tools**  
 <p><img src="https://skillicons.dev/icons?i=postman,figma,codepen,babel,sentry&perline=12"></p>
