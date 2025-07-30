@@ -22,63 +22,44 @@
 
 ---
 
-<!-- SKILLS (grouped + ordered) -->
-### Tech I use (ordered by impact)
+### Tech I use
 
-**Core**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,bash&perline=9" />
-  </a>
-</p>
+**Core & OS**  
+<p><img src="https://skillicons.dev/icons?i=git,vscode,linux,bash&perline=12"></p>
 
-**Languages & Runtime**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs&perline=9" />
-  </a>
-</p>
+**Languages**  
+<p><img src="https://skillicons.dev/icons?i=php,js,ts&perline=12"></p>
 
-**Backend**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,graphql,jest&perline=9" />
-  </a>
-</p>
+**Run‑times**  
+<p><img src="https://skillicons.dev/icons?i=nodejs,bun&perline=12"></p>
 
-**Frontend**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,sass&perline=9" />
-  </a>
-</p>
+**Backend Frameworks**  
+<p><img src="https://skillicons.dev/icons?i=laravel,express&perline=12"></p>
 
-**Data & Search**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,elasticsearch&perline=9" />
-  </a>
-</p>
+**Frontend Frameworks**  
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs&perline=12"></p>
 
-**Cloud & Containers**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws&perline=9" />
-  </a>
-</p>
+**Styling & Bundling**  
+<p><img src="https://skillicons.dev/icons?i=tailwind,css,sass,vite&perline=12"></p>
 
-**Alt stack**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel&perline=9" />
-  </a>
-</p>
+**Data & Search**  
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,elasticsearch,prisma&perline=12"></p>
 
-**Tools**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,babel,figma&perline=9" />
-  </a>
-</p>
+**DevOps & Cloud**  
+<p><img src="https://skillicons.dev/icons?i=docker,aws,netlify&perline=12"></p>
+
+**Developer Tools**  
+<p><img src="https://skillicons.dev/icons?i=postman,figma,codepen,babel,sentry&perline=12"></p>
 
 ---
+
+### Hobbies & Creative
+<p><img src="https://skillicons.dev/icons?i=ableton,ps,ae,apple&perline=12"></p>
+
+- **Ableton** – making beats.  
+- **Photoshop / After Effects** – visuals & motion.  
+- **Apple** – yep, I’m in the cult.
+
+---
+
+<p align="center"><sub>Icons by <a href="https://skillicons.dev">skillicons.dev</a></sub></p>
