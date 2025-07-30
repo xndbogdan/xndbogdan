@@ -22,7 +22,7 @@
 
 ---
 
-### Tech I use
+### Favorite tech stack
 
 **Core & OS**  
 <p><img src="https://skillicons.dev/icons?i=git,vscode,linux,bash&perline=12"></p>
