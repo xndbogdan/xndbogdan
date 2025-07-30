@@ -24,8 +24,8 @@
 
 ### Favorite tech stack
 
-**Core & OS**  
-<p><img src="https://skillicons.dev/icons?i=git,vscode,linux,bash,powershell&perline=12"></p>
+**Core & OS**  
+<p><img src="https://skillicons.dev/icons?i=git,vscode,linux,bash&perline=12"></p>
 
 **Languages**  
 <p><img src="https://skillicons.dev/icons?i=php,js,ts&perline=12"></p>
@@ -33,19 +33,19 @@
 **Runtimes**  
 <p><img src="https://skillicons.dev/icons?i=nodejs,bun&perline=12"></p>
 
-**Backend Frameworks**  
-<p><img src="https://skillicons.dev/icons?i=laravel,express&perline=12"></p>
-
 **Frontend Frameworks**  
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs&perline=12"></p>
+<p><img src="https://skillicons.dev/icons?i=react,vue&perline=12"></p>
 
-**Styling & Bundling**  
+**Frameworks (full‑stack & back‑end)**  
+<p><img src="https://skillicons.dev/icons?i=laravel,nextjs,nuxtjs,express&perline=12"></p>
+
+**Styling & Bundling**  
 <p><img src="https://skillicons.dev/icons?i=tailwind,css,sass,vite&perline=12"></p>
 
-**Data & Search**  
+**Data & Search**  
 <p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,elasticsearch,prisma&perline=12"></p>
 
-**DevOps & Cloud**  
+**DevOps & Cloud**  
 <p><img src="https://skillicons.dev/icons?i=docker,aws,netlify&perline=12"></p>
 
 **Developer Tools**  
@@ -56,7 +56,7 @@
 ### Hobbies & Creative
 <p><img src="https://skillicons.dev/icons?i=ableton,ps,ae,apple&perline=12"></p>
 
-- **Ableton** – making beats.  
+- **Ableton** — music production & sound design.
 - **Photoshop / After Effects** – visuals & motion.  
 - **Apple** – yep, I’m in the cult.
 
