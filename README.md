@@ -13,8 +13,17 @@
 
 ---
 
+<style>
+td, th {
+   border: none!important;
+   text-align: center;
+}
+</style>
+
 <!-- WHAT I DO -->
+
 ### What I do
+
 - Ship **React/Next.js** and **Vue/Nuxt** frontends that are fast and accessible.
 - Build **Node.js/Express** and **PHP/Laravel** backends with **MySQL/Postgres/SQLite**, **Redis**, and **Elasticsearch** when search matters.
 - Containerize everything with **Docker** and deploy to **AWS**. Test with **Jest**. Speak **GraphQL/REST** equally well.
@@ -23,53 +32,74 @@
 
 ### Stacks I ship with
 
-**Core & OS**  
-<p><img src="https://skillicons.dev/icons?i=linux,apple,git,bash,vscode&perline=12" alt="Linux, Apple, Git, Bash, VS Code"></p>
-<p><sub><code>Linux</code> • <code>Apple</code> • <code>Git</code> • <code>Bash</code> • <code>VS Code</code></sub></p>
+**Core & OS**
 
-**Languages**  
-<p><img src="https://skillicons.dev/icons?i=php,js,ts&perline=12" alt="PHP, JavaScript, TypeScript"></p>
-<p><sub><code>PHP</code> • <code>JavaScript</code> • <code>TypeScript</code></sub></p>
+|                                                                                               |                                                                                               |                                                                                         |                                                                                            |                                                                                                    |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=linux" alt="Linux"><br><sub><code>Linux</code></sub> | <img src="https://skillicons.dev/icons?i=apple" alt="Apple"><br><sub><code>Apple</code></sub> | <img src="https://skillicons.dev/icons?i=git" alt="Git"><br><sub><code>Git</code></sub> | <img src="https://skillicons.dev/icons?i=bash" alt="Bash"><br><sub><code>Bash</code></sub> | <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"><br><sub><code>VS Code</code></sub> |
 
-**Runtimes**  
-<p><img src="https://skillicons.dev/icons?i=nodejs,bun&perline=12" alt="Node.js, Bun"></p>
-<p><sub><code>Node.js</code> • <code>Bun</code></sub></p>
+**Languages**
 
-**Frontend Frameworks**  
-<p><img src="https://skillicons.dev/icons?i=vue,react&perline=12" alt="Vue, React"></p>
-<p><sub><code>Vue</code> • <code>React</code></sub></p>
+|                                                                                         |                                                                                                      |                                                                                                      |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=php" alt="PHP"><br><sub><code>PHP</code></sub> | <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"><br><sub><code>JavaScript</code></sub> | <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"><br><sub><code>TypeScript</code></sub> |
 
-**Frameworks (full‑stack & back‑end)**  
-<p><img src="https://skillicons.dev/icons?i=laravel,nextjs,nuxtjs,express,adonis&perline=12" alt="Laravel, Next.js, Nuxt, Express, AdonisJS"></p>
-<p><sub><code>Laravel</code> • <code>Next.js</code> • <code>Nuxt</code> • <code>Express</code> • <code>AdonisJS</code></sub></p>
+**Runtimes**
 
-**Desktop apps**  
-<p><img src="https://skillicons.dev/icons?i=electron&perline=12" alt="Electron"></p>
-<p><sub><code>Electron</code></sub></p>
+|                                                                                                    |                                                                                         |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"><br><sub><code>Node.js</code></sub> | <img src="https://skillicons.dev/icons?i=bun" alt="Bun"><br><sub><code>Bun</code></sub> |
 
-**Styling & Bundling**  
-<p><img src="https://skillicons.dev/icons?i=tailwind,css,sass,vite&perline=12" alt="Tailwind CSS, CSS, Sass, Vite"></p>
-<p><sub><code>Tailwind CSS</code> • <code>CSS</code> • <code>Sass</code> • <code>Vite</code></sub></p>
+**Frontend Frameworks**
 
-**Data & Search**  
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,elasticsearch,prisma&perline=12" alt="MySQL, Postgres, SQLite, Redis, Elasticsearch, Prisma"></p>
-<p><sub><code>MySQL</code> • <code>Postgres</code> • <code>SQLite</code> • <code>Redis</code> • <code>Elasticsearch</code> • <code>Prisma</code></sub></p>
+|                                                                                         |                                                                                               |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=vue" alt="Vue"><br><sub><code>Vue</code></sub> | <img src="https://skillicons.dev/icons?i=react" alt="React"><br><sub><code>React</code></sub> |
 
-**DevOps & Cloud**  
-<p><img src="https://skillicons.dev/icons?i=docker,aws,netlify&perline=12" alt="Docker, AWS, Netlify"></p>
-<p><sub><code>Docker</code> • <code>AWS</code> • <code>Netlify</code></sub></p>
+**Frameworks (full‑stack & back‑end)**
 
-**Developer Tools**  
-<p><img src="https://skillicons.dev/icons?i=postman,figma,codepen,babel,sentry&perline=12" alt="Postman, Figma, CodePen, Babel, Sentry"></p>
-<p><sub><code>Postman</code> • <code>Figma</code> • <code>CodePen</code> • <code>Babel</code> • <code>Sentry</code></sub></p>
+|                                                                                                     |                                                                                                    |                                                                                              |                                                                                                     |                                                                                                      |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"><br><sub><code>Laravel</code></sub> | <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"><br><sub><code>Next.js</code></sub> | <img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt"><br><sub><code>Nuxt</code></sub> | <img src="https://skillicons.dev/icons?i=express" alt="Express"><br><sub><code>Express</code></sub> | <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS"><br><sub><code>AdonisJS</code></sub> |
+
+**Desktop apps**
+
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=electron" alt="Electron"><br><sub><code>Electron</code></sub> |
+
+**Styling & Bundling**
+
+|                                                                                                                |                                                                                         |                                                                                            |                                                                                            |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"><br><sub><code>Tailwind CSS</code></sub> | <img src="https://skillicons.dev/icons?i=css" alt="CSS"><br><sub><code>CSS</code></sub> | <img src="https://skillicons.dev/icons?i=sass" alt="Sass"><br><sub><code>Sass</code></sub> | <img src="https://skillicons.dev/icons?i=vite" alt="Vite"><br><sub><code>Vite</code></sub> |
+
+**Data & Search**
+
+|                                                                                               |                                                                                                        |                                                                                                  |                                                                                               |                                                                                                                       |                                                                                                  |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"><br><sub><code>MySQL</code></sub> | <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"><br><sub><code>Postgres</code></sub> | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"><br><sub><code>SQLite</code></sub> | <img src="https://skillicons.dev/icons?i=redis" alt="Redis"><br><sub><code>Redis</code></sub> | <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch"><br><sub><code>Elasticsearch</code></sub> | <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma"><br><sub><code>Prisma</code></sub> |
+
+**DevOps & Cloud**
+
+|                                                                                                  |                                                                                         |                                                                                                     |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| <img src="https://skillicons.dev/icons?i=docker" alt="Docker"><br><sub><code>Docker</code></sub> | <img src="https://skillicons.dev/icons?i=aws" alt="AWS"><br><sub><code>AWS</code></sub> | <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"><br><sub><code>Netlify</code></sub> |
+
+**Developer Tools**
+
+|                                                                                                     |                                                                                               |                                                                                                     |                                                                                               |                                                                                                  |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=postman" alt="Postman"><br><sub><code>Postman</code></sub> | <img src="https://skillicons.dev/icons?i=figma" alt="Figma"><br><sub><code>Figma</code></sub> | <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen"><br><sub><code>CodePen</code></sub> | <img src="https://skillicons.dev/icons?i=babel" alt="Babel"><br><sub><code>Babel</code></sub> | <img src="https://skillicons.dev/icons?i=sentry" alt="Sentry"><br><sub><code>Sentry</code></sub> |
 
 ---
 
 ### Hobbies & Creative
+
 <p><img src="https://skillicons.dev/icons?i=ableton,ps,ae&perline=12"></p>
 
 - **Ableton** — music production & sound design.
-- **Photoshop / After Effects** – visuals & motion.  
+- **Photoshop / After Effects** – visuals & motion.
 
 ---
 
