@@ -17,7 +17,8 @@
 ### What I do
 - Ship **React/Next.js** and **Vue/Nuxt** frontends that are fast and accessible.
 - Build **Node.js/Express** and **PHP/Laravel** backends with **MySQL/Postgres/SQLite**, **Redis**, and **Elasticsearch** when search matters.
-- Containerize everything with **Docker** and deploy to **AWS**. Test with **Jest**. Speak **GraphQL/REST** equally well.
+- Test with **Jest**
+- I use both **GraphQL & REST**.
 
 ---
 
