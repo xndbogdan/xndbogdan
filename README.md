@@ -65,7 +65,7 @@
 
 ---
 
-### Hobbies & Creative
+### Hobbies & Creative Work
 <p><img src="https://skillicons.dev/icons?i=ableton,ps,ae&perline=12"></p>
 
 - **Ableton** — music production & sound design.
